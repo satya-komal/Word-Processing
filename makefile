@@ -1,3 +1,6 @@
+// Command to compile - make all
+// Command to clean -   make clean
+// Command to run -  ./Program1 filename.txt
 #
 # Specifiy the target
 all:	sgutta1_grader
